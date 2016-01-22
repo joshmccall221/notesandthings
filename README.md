@@ -21,7 +21,7 @@ https://www.quora.com/Is-the-MacBook-Air-good-for-programming/answer/Quincy-Lars
 Trains planes and automobiles(coding while travelling)
 https://nodegeek.net/2015/03/05/using-chromebook-for-node-js-development/
 
-* This guy was a insurance salesman turned developer because he spent his time on planes learning to code: 
+This guy was a insurance salesman turned developer because he spent his time on planes learning to code: 
 https://www.youtube.com/watch?v=z5e7kWSHWTg
  - Says "he hates telling clients 'no'... that's why he became a developer, to do the things he was told couldn't be done"
 
