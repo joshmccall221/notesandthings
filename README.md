@@ -54,3 +54,28 @@ https://www.amazeelabs.com/en/How-to-write-Sass-within-Chromes-DevTools-using-Wo
 
 Productivity and Note taking: 
 https://blog.pivotal.io/labs/labs/markdown-by-default
+
+Reading List: 
+Learning the Alphabet | The Verge
+http://www.theverge.com/2016/2/17/11030406/neverware-google-chromebook-chromium-os-education-microsoft
+
+Neverware
+http://www.neverware.com/
+
+A Vision of Coding, Without Opening your Eyes — Free Code Camp — Medium
+https://medium.freecodecamp.com/looking-back-to-what-started-it-all-731ef5424aec#.h3w50m2kg
+
+How I Landed My First Job as a Web Developer — Free Code Camp — Medium
+https://medium.freecodecamp.com/how-i-landed-my-first-job-as-a-web-developer-f991fe728b95#.sr3o8r90p
+
+A year ago I started learning to code, focusing on front-end development. — Free Code Camp — Medium
+https://medium.freecodecamp.com/mistakes-i-made-while-learning-to-code-2a7e3ace092e#.jp2073u7m
+
+How I wasted two years of my life trying to learn web development before discovering Free Code Camp — Free Code Camp — Medium
+https://medium.freecodecamp.com/how-i-wasted-2-years-of-my-life-trying-to-learn-web-development-prior-to-discovering-freecodecamp-916cbdcf8a1#.x217buay9
+
+A Cautionary Tale of Learning to Code. My own. — Free Code Camp — Medium
+https://medium.freecodecamp.com/a-cautionary-tale-of-learning-to-code-my-own-eddb24d9d5a7#.kgebfzktb
+
+Building a Vegan Recipe App with React, Redux and Firebase — Free Code Camp — Medium
+https://medium.freecodecamp.com/redux-and-firebase-6906a1b4ca6f#.9y80njbh7
