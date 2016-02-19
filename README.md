@@ -55,7 +55,7 @@ https://www.amazeelabs.com/en/How-to-write-Sass-within-Chromes-DevTools-using-Wo
 Productivity and Note taking: 
 https://blog.pivotal.io/labs/labs/markdown-by-default
 
-Reading List: 
+##Reading List: 
 Learning the Alphabet | The Verge
 http://www.theverge.com/2016/2/17/11030406/neverware-google-chromebook-chromium-os-education-microsoft
 
